@@ -1,5 +1,5 @@
 def call(){
   sh 'date'
-  sh 'id'
+  sh 'pwd'
   sh 'sleep 1'
 }
